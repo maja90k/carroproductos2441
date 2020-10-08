@@ -23,7 +23,7 @@ public class ProductosDAOLista implements ProductosDAO {
 
         p = new Producto();
         p.setNombre("Centella ");
-        p.setDescripcion("daskjladskjonsectetur adipiscing elit. Qonsectetur adipiscing elit. Qd ");
+        p.setDescripcion("daskjladskjonsectetur adipiscing elit. Qonsectetur adipiscing elit. Qd Qonsectetur adipiscing elit. Qd ");
         p.setFoto("http://ventasatc.cl/wp-content/uploads/2016/12/Centella-Transparente-.png");
         productos.add(p);
 

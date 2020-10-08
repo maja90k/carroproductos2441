@@ -1,6 +1,8 @@
 package cl.inacap.foodtruck.dto;
 
-public class Producto {
+import java.io.Serializable;
+
+public class Producto implements Serializable {
     private String nombre;
     private String descripcion;
     private String foto;// aqui voy a agregar la url de la foto

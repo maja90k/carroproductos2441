@@ -4,10 +4,5 @@
     <dimen name="titulo_app_size">40sp</dimen>
     <dimen name="margin_left_titulo_app">40dp</dimen>
     <dimen name="margin_left_prod">40dp</dimen>
-
-
-
-
-
-
+    <dimen name="margin_top_prod">30dp</dimen>
 </resources>
